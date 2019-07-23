@@ -1,0 +1,10 @@
+NAME="sshpass"
+VERSION=1.06
+RELEASE=1
+CATEGORY="Utils"
+SUMMARY="Non-interactive SSH password provider"
+DESCRIPTION="sshpass is a utility designed for running ssh using the mode
+referred to as keyboard-interactive password authentication, but in
+non-interactive mode."
+HOMEPAGE="https://sourceforge.net/projects/sshpass/"
+SRC_URI="mirror://sourceforge/sshpass/sshpass-${VERSION}.tar.gz"
